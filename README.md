@@ -2,11 +2,11 @@
 
 <b>Coding dreams into reality since 2021!!</b>
 
-I'm currently working on an autonomously guided robot, affectionately named Arnold the Terminator.
+I am currently working on full-stack applications for the Church of Jesus Christ of Latter-day Saints.
 
 Strongest Ability: Developing Python applications 😄
 
-Current Focus: Improving my understanding of intelligent stacks.
+Current Focus: Developing a Swift Application with SwiftUI and SwiftData.
 
 Notable Projects: Full-stack Reptile Tracker, Family Tree Visualization, and Milo the Chatbot.
 
