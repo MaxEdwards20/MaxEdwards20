@@ -2,7 +2,7 @@
 
 <b>Coding dreams into reality since 2021!!</b>
 
-I am currently working on full-stack applications for the Church of Jesus Christ of Latter-day Saints.
+I am currently working on my own fitness-tracking app, Apollo.
 
 Strongest Ability: Developing Python applications 😄
 
