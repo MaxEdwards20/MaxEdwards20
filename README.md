@@ -1,5 +1,7 @@
 # Hi, I'm Max 👋🖥️
 
+![banner that says Maxwell Edwards - Software Engineer](./images/banner.png)
+
 I am currently working on my own fitness-tracking app, Apollo.
 
 Strongest Ability: Developing APIs for large-scale applications (100,000+ users) 😄
@@ -8,13 +10,11 @@ Current Focus: Developing a Swift Application with SwiftUI and SwiftData.
 
 Notable Projects: High Performance GPU and CPU clustering, Multiplayer Snake using Event Driven Architecture, and Milo the Chatbot.
 
-## Find me around the web 🌎:
+<a href="https://maxedwards.io/"><img align="left" height="150" src="./images/blonde-programmer.png" style="max-width: 100%; display: inline-block; margin-right: 20px"></a>
+
+### Find me around the web 🌎
+
+<hr style="margin-top:-5px; margin-bottom: 5px;">
+
 - Sharing updates on [LinkedIn](https://linkedin.com/in/maxwell-edwards20/) 💼
 - Posting various demos on my [portoflio](https://maxedwards.io) 💻
-
-
-
-
-
-
-
