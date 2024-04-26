@@ -11,7 +11,7 @@ Let's architect your next success together!
 ```python
 max = {
   "languages": ["Python", "C#", "Java", "Kotlin", "JavaScript", "HTML"],
-  "tools": ["React.js", ".NET", "Node.js", "Django", ".NET"],
+  "tools": ["React.js", ".NET", "Node.js", "Django"],
   "cloud": ["Azure", "AWS"],
   "devOps": ["Docker", "Azure Pipelines", "GitHub Actions"],
   "misc": ["Agile", "Scrum", "Kanban", "Jira", "Confluence"]
