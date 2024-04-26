@@ -16,5 +16,6 @@ Notable Projects: High Performance GPU and CPU clustering, Multiplayer Snake usi
 
 <hr style="margin-top:-5px; margin-bottom: 5px;">
 
-- Sharing updates on [LinkedIn](https://linkedin.com/in/maxwell-edwards20/) 💼
-- Posting various demos on my [portoflio](https://maxedwards.io) 💻
+Sharing updates on [LinkedIn](https://linkedin.com/in/maxwell-edwards20/) 💼
+
+Posting various demos on my [portoflio](https://maxedwards.io) 💻
