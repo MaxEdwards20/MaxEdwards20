@@ -12,7 +12,7 @@ Current Focus: Developing a Swift Application with SwiftUI and SwiftData.
 
 Notable Projects: High Performance GPU and CPU clustering, Multiplayer Snake using Event Driven Architecture, and Milo the Chatbot.
 
-<a href="https://maxedwards.io/"><img align="left" height="150" src="./images/blonde-programmer.png" style="max-width: 100%; display: inline-block; margin-right: 20px; border-radius: 10px;"></a>
+<a href="https://maxedwards.io/"><img align="left" height="150" src="./images/blonde-programmer.png" style="max-width: 100%; display: inline-block; margin-right: 30px; border-radius: 10px;"></a>
 
 ### Find me around the web 🌎
 
