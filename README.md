@@ -1,6 +1,8 @@
 # Hi, I'm Max 👋🖥️
 
-![banner that says Maxwell Edwards - Software Engineer](./images/banner.png)
+![banner](./images/banner.png)
+
+<!-- <img src="./images/banner.png" alt="banner that says Maxwell Edwards - Software Engineer" width="600" height="300"> -->
 
 I am currently working on my own fitness-tracking app, Apollo.
 
