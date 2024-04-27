@@ -24,7 +24,7 @@ max = {
 - [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear
 - [Essentialism](https://pocketwisdom.blog/2021/08/16/essentialism-by-greg-mckeown/) by Greg McKeown
 
-<a href="https://maxedwards.io/"><img align="left" height="150" src="./images/blonde-programmer-rounded.png" style="max-width: 100%; display: inline-block; margin-right: 30px;"></a>
+<a href="https://maxedwards.io/"><img align="left" height="200" src="./images/blonde-programmer-rounded.png" style="max-width: 100%; display: inline-block; margin-right: 30px;"></a>
 
 ### Find me around the web 🌎
 
