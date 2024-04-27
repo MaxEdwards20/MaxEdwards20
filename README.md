@@ -2,7 +2,7 @@
 
 <img src="./images/banner-rounded.png" alt="banner that says Maxwell Edwards - Software Engineer">
 
-Software Engineer with a proven track record in architectural design and optimization. Experienced in delivering scalable solutions that drive efficiency and performance.
+Software Engineer with a track record in architectural design and optimization. Experienced in delivering scalable solutions that drive efficiency and performance.
 
 Let's architect your next success together!
 
