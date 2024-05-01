@@ -4,7 +4,7 @@
 
 Software Engineer with a track record in architectural design and optimization. Experienced in delivering scalable solutions that drive efficiency and performance.
 
-Let's architect your next success together!
+Email me with your great digital ideas 💡
 
 ## Languages and Tools 🛠️
 
